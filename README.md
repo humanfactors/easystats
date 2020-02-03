@@ -15,7 +15,7 @@
 
 </p>
 
-<br>
+<p><br /><br /><br /></p>
 
 The aim of **easystats** is to provide a unifying and consistent
 framework to tame, discipline and harness the scary R statistics and
